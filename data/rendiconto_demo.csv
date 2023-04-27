@@ -1,0 +1,35 @@
+Date,Operazione,Dettagli,Tipo_transazione,Categoria,Valuta,Importo,Banca,Transazione_speciale,Doc_Version,Date_Time
+2021-01-02,Saldo contabile iniziale in Euro,,Conto XXXX/YYYYYYYY,,EUR,10000.0,Banca_1,True,v0,2021-01-02 00:00:00.000
+2021-01-02,Importo iniziale su conto,,Giroconto,,EUR,1000.0,Banca_2,True,v0,2021-01-02 00:00:00.000
+2021-01-05,stipendio,stipendio dicembre,Emolumenti,Stipendi e pensioni,EUR,1720.0,Banca_2,False,v0,2021-01-05 00:00:00.000
+2021-01-05,Pagamento tramite pos,XXX - Carta  Xxxx Xxxx Xx,Carta Bancomat,,EUR,-500.0,Banca_1,False,v0,2021-01-05 02:00:00.000
+2021-01-05,Giroconto - Caricamento nuovo conto,,Giroconto,Giroconto entrata,EUR,3000.0,Banca_2,True,v0,2021-01-05 00:00:00.000
+2021-01-07,Pagam. POS,,Pagam. POS,Tempo libero varie,EUR,-48.35,Banca_2,False,v0,2021-01-07 00:00:00.000
+2021-01-07,Imposta di bollo e/c e rendiconto,,Conto XXXX/YYYYYYYY,Imposte sul reddito e tasse varie,EUR,-8.6,Banca_1,False,v0,2021-01-07 02:00:00.000
+2021-01-08,Pagamento mensile,Disposizione,Conto XXXX/YYYYYYYY,Domiciliazioni e Utenze,EUR,-8.0,Banca_1,False,v0,2021-01-08 02:00:00.000
+2021-01-11,Stipendio,stipendio dicembre,Conto XXXX/YYYYYYYY,,EUR,1800.0,Banca_1,False,v0,2021-01-11 02:00:00.000
+2021-01-11,Pagam. POS,,Pagam. POS,Tempo libero varie,EUR,-20.78,Banca_2,False,v0,2021-01-11 00:00:00.000
+2021-01-12,Addeb. Diretto,,Addeb. diretto,Domiciliazioni e Utenze,EUR,-6.99,Banca_2,False,v0,2021-01-12 00:00:00.000
+2021-01-12,Bonif. v/fav ,Causale bonifico,Bonif. v/fav.,Bonifici ricevuti,EUR,60.0,Banca_2,False,v0,2021-01-12 00:00:00.000
+2021-01-12,Pagamento tramite pos,,Carta Bancomat,,EUR,-9.39,Banca_1,False,v0,2021-01-12 02:00:00.000
+2021-01-13,Giroconto,,Giroconto,Giroconto entrata,EUR,5000.0,Banca_2,True,v0,2021-01-13 00:00:00.000
+2021-01-13,Giroconto,,Giroconto,Giroconto in uscita,EUR,-5000.0,Banca_1,True,v0,2021-01-13 00:00:00.000
+2021-01-18,Bonifico in uscita,,Disposizione,Investimenti,EUR,-100.0,Banca_2,False,v0,2021-01-18 00:00:00.000
+2021-01-18,Canone servizio bancario,,Conto XXXX/YYYYYYYY,Imposte sul reddito e tasse varie,EUR,-52.68,Banca_1,False,v0,2021-01-18 02:00:00.000
+2021-02-05,stipendio,stipendio febbraio,Emolumenti,Stipendio,EUR,1448.0,Banca_2,False,v0,2021-02-05 00:00:00.000
+2021-02-10,Stipendio o pensione,stipendio febbraio,Conto XXXX/YYYYYYYY,Stipendi e pensioni,EUR,1598.0,Banca_1,False,v0,2021-02-10 02:00:00.000
+2021-02-11,pagamento POS,,Pagam. POS,,EUR,-45.15,Banca_2,False,v0,2021-02-11 00:00:00.000
+2021-02-15,pagamento POS,,Pagam. POS,,EUR,-9.91,Banca_2,False,v0,2021-02-15 00:00:00.000
+2021-02-15,pagamento POS,,Pagam. POS,Spese mediche,EUR,-12.0,Banca_2,False,v0,2021-02-15 00:00:00.000
+2021-02-15,pagamento POS,,Pagam. POS,Spese mediche,EUR,-10.0,Banca_2,False,v0,2021-02-15 00:00:00.000
+2021-02-16,pagamento POS,,Pagam. POS,,EUR,-10.8,Banca_2,False,v0,2021-02-16 00:00:00.000
+2021-02-16,pagamento POS,,Pagam. POS,,EUR,-65.07,Banca_2,False,v0,2021-02-16 00:00:00.000
+2021-02-16,pagamento POS,,Pagam. POS,,EUR,-21.5,Banca_2,False,v0,2021-02-16 00:00:00.000
+2021-02-16,pagamento POS,,Pagam. POS,Tempo libero varie,EUR,-21.0,Banca_2,False,v0,2021-02-16 00:00:00.000
+2021-02-17,Bonif. v/fav,,Bonif. v/fav.,Bonifici ricevuti,EUR,500.0,Banca_2,False,v0,2021-02-17 00:00:00.000
+2021-02-17,pagamento POS,,Pagam. POS,,EUR,-37.21,Banca_2,False,v0,2021-02-17 00:00:00.000
+2021-02-22,pagamento POS,,Pagam. POS,,EUR,-6.06,Banca_2,False,v0,2021-02-22 00:00:00.000
+2021-02-22,pagamento POS,,Pagam. POS,,EUR,-8.0,Banca_2,False,v0,2021-02-22 00:00:00.000
+2021-02-22,Bonifico,,Disposizione,Bonifico in uscita,EUR,-171.06,Banca_2,False,v0,2021-02-22 00:00:00.000
+2021-02-25,Addebito diretto,,Addeb. diretto,Domiciliazioni e Utenze,EUR,-67.14,Banca_2,False,v0,2021-02-25 00:00:00.000
+2021-02-26,Pagamento premio assicurativo,,Conto XXXX/YYYYYYYY,,EUR,-300.0,Banca_1,False,v0,2021-02-26 02:00:00.000
